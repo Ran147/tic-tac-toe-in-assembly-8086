@@ -1,4 +1,4 @@
-; Proyecto de ensamblador de Alisson y Randy 
+ 
 .model large
 
 org 100h                                           
